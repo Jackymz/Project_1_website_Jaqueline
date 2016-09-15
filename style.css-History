@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  color: white;
+  background-color: black;
+  border: 5px solid red;
+  padding: 10px;
+  width: 1000px;
+}
+
+p{
+  text-align: center;
+  }
+
+  body {
+      background-image: url(https://media.timeout.com/images/101851347/image.jpg);
+
+      img{
+        display: block;
+      }
+
+      h3{
+        text-align: center;
+
+        }
+
+    

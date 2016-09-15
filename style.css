@@ -1,0 +1,22 @@
+h1 {
+  text-align: center
+}
+
+p {
+  color: black;
+  background-color: red;
+  border: 5px solid blue;
+  padding: 10px;
+  width: 900px;
+}
+
+img{
+  display: block;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+    background-image: url(http://www.blaugranas.com/media/galeria/25/2/6/0/4/n_f_c_barcelona_escudo-4564062.jpg); background-size: 600px 600px;
